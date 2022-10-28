@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Hello%20There&fontSize=70&desc=Seungbin's%20Github%20Profile)  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,25,26,27,30&height=300&section=header&text=Hello%20There&fontSize=70&desc=Seungbin's%20Github%20Profile)  
 
 ### 👋 Introduction
  🎯 I’m currently working on improving performance of crack segmentation models  
