@@ -26,4 +26,4 @@
 <img src="https://img.shields.io/badge/PytorchLightning-792EE5?style=for-the-badge&logo=PytorchLightning&logoColor=white">
 
 ### 🎨 Gihub Stats 
-![KSeungBin's github stats](https://github-readme-stats.vercel.app/api?username=KSeungBin&show_icons=true)
+![KSeungBin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSeungBin&show_icons=true&theme=radical)
