@@ -3,7 +3,7 @@
 ### 👋 Introduction
  🎯 I’m currently working on improving performance of crack segmentation models  
  &emsp;   → This is our group project on github: https://github.com/KSeungBin/yeardream_CV_project/tree/main/crack_segmentation  
- ⚡ I’m currently learning Computer Vision and Data Analysis as a 'Yeardream School' student.  
+ ⚡ I'm working with gausslab as an AI Researcher  
  📧 How to reach me: tmdqlsrla11@naver.com (starsbk7@gmail.com)  
 
 ### 🌱 Blog
