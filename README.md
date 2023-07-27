@@ -1,9 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=23,25,26,27,30&height=300&section=header&text=Hello%20There&fontSize=70&desc=Seungbin's%20Github%20Profile)  
 
 ### 👋 Introduction
+  ⚡ I'm working with gausslab as an AI Researcher  
  🎯 I’m currently working on improving performance of crack segmentation models  
  &emsp;   → This is our group project on github: https://github.com/KSeungBin/yeardream_CV_project/tree/main/crack_segmentation  
- ⚡ I'm working with gausslab as an AI Researcher  
  📧 How to reach me: tmdqlsrla11@naver.com (starsbk7@gmail.com)  
 
 ### 🌱 Blog
