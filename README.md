@@ -25,5 +25,4 @@
 <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white">
 <img src="https://img.shields.io/badge/PytorchLightning-792EE5?style=for-the-badge&logo=PytorchLightning&logoColor=white">
 
-### 🎨 Gihub Stats 
-![Seungbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=KSeungBin&show_icons=true&theme=tokyonight)
+
